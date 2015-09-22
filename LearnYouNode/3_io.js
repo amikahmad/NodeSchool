@@ -1,10 +1,16 @@
-// USE A SYNCHRONOUS FILESYSTEM OPERATION TO READ A FILE AND PRINT THE NUMBER OF NEWLINES (\n) IT CONTAINS TO THE CONSOLE
+// Write a program that uses a single synchronous filesystem operation to read a file and print the number of newlines (\n) it contains to the console
 
-// Load the fs module and put in a global variable.
 var fs = require('fs')
 
-// This method will return a Buffer object containing the complete contents of the file.
-// Buffer objects are Node's way of efficiently representing arbitrary arrays of data, whether it be ascii, binary or some other format.
-fs.readFileSync('/path/to/file')
+// Return the file as a buffer object
+var buffObj = fs.readFileSync(process.argv[2])
 
+// Convert the buffObj to string
+var buffStr = buffObj.toString()
 
+// Count how many lines there are.
+// Use .split to create an array of substrings. Each split should be a new line.
+// In this example the test file  does not have a newline character so the array has one more element than desired. Simply subtract this.
+var lines = buffStr.split('\n').length - 1
+
+console.log(lines)
