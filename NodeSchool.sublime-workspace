@@ -1,0 +1,221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lin",
+				"line_padding_top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"e",
+				"e"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 349.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/JavaScripting"
+	],
+	"file_history":
+	[
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/JavaScripting/13_accessing-array-values.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/12_array-filtering.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/11_arrays.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/10_for-loop.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/9_if-statement.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/8_number-to-string.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/7_rounding-numbers.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/5_revising-strings.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/6_numbers.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/4_string-length.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/3_strings.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/variables.js",
+		"/Users/amikahmad/Dropbox/Code/Github/NodeSchool/Javascripting/introduction.js",
+		"/Users/amikahmad/Dropbox/Code/Github/Node/ns2.js",
+		"/Users/amikahmad/Dropbox/Code/Github/Web/flexbox/css/style.css",
+		"/Users/amikahmad/Dropbox/Code/Github/Web/flexbox/Flex_1.html",
+		"/Users/amikahmad/Dropbox/Code/Github/Node/Node_Simple_Server/helloTCP.js",
+		"/Users/amikahmad/Dropbox/Code/Github/Node/Node_Simple_Server/server.js",
+		"/Users/amikahmad/Dropbox/Code/Github/Node/Node_Simple_Server/helloNode.js",
+		"/Users/amikahmad/Dropbox/Code/Github/node/Node_Simple_Server/server.js",
+		"/Users/amikahmad/Dropbox/Code/Github/node-dev/helloNode.js",
+		"/Users/amikahmad/Dropbox/Code/Github/node-dev/server.js",
+		"/Users/amikahmad/Dropbox/Code/Github/web/flexbox/Flex_1.html",
+		"/Users/amikahmad/Dropbox/Code/Github/web/flexbox/css/style.css",
+		"/Users/amikahmad/Dropbox/Code/Github/node-dev/console.log(\"Hello Node\");",
+		"/Users/amikahmad/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/amikahmad/Dropbox/Code/Github/web/flexbox/css/normalize.css",
+		"/Users/amikahmad/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/amikahmad/Dropbox/Code/Github/datasciencecoursera/helloWorld.md",
+		"/Users/amikahmad/Dropbox/Code/Python/LPTHW/ex10.py",
+		"/Users/amikahmad/Dropbox/Code/Python/LPTHW/ex8.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "NodeSchool.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
