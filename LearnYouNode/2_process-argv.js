@@ -1,6 +1,6 @@
 // LOOP THROUGH ARGUMENTS AND OUTPUT THEIR SUM
 
-// set result as a global variable
+// Set result as a global variable.
 var result = 0
 
 for (var i = 2; i < process.argv.length; i++)

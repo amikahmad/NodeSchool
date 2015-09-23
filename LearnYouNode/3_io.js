@@ -1,11 +1,11 @@
-// Write a program that uses a single synchronous filesystem operation to read a file and print the number of newlines (\n) it contains to the console
+// Write a program that uses a single synchronous filesystem operation to read a file and print the number of newlines (\n) it contains to the console.
 
 var fs = require('fs')
 
-// Return the file as a buffer object
+// Return the file as a buffer object.
 var buffObj = fs.readFileSync(process.argv[2])
 
-// Convert the buffObj to string
+// Convert the buffObj to string.
 var buffStr = buffObj.toString()
 
 // Count how many lines there are.
